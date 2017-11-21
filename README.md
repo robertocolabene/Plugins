@@ -11,7 +11,7 @@ Autodafe Drums and Modules pack
 
 Befaco
 
-Bidoo modules
+Bidoo dtroy module
 
 ESeries
 
