@@ -1,5 +1,5 @@
 # Plugins
-Win64 VCV Rack v0.4 plugins
+Win64 VCV Rack v0.4 compiled plugins
 
 That rar contains:
 
